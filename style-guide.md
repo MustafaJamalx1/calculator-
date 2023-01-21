@@ -13,49 +13,49 @@ The designs were created to the following widths:
 
 #### Backgrounds
 
-- Very dark desaturated blue (main background): hsl(222, 26%, 31%)
-- Very dark desaturated blue (toggle background, keypad background): hsl(223, 31%, 20%)
-- Very dark desaturated blue (screen background): hsl(224, 36%, 15%)
+- Very dark desaturated blue (main background): #3a4764
+- Very dark desaturated blue (toggle background, keypad background): #232c43
+- Very dark desaturated blue (screen background): #182034
 
 #### Keys
 
-- Desaturated dark blue (key background): hsl(225, 21%, 49%)
-- Desaturated dark blue (key shadow): hsl(224, 28%, 35%)
+- Desaturated dark blue (key background): #637097
+- Desaturated dark blue (key shadow): #404e72
 
-- Red (key background, toggle): hsl(6, 63%, 50%)
-- Dark red (key shadow): hsl(6, 70%, 34%)
+- Red (key background, toggle): #d03f2f
+- Dark red (key shadow): #93261a
 
-- Light grayish orange (key background): hsl(30, 25%, 89%)
-- Grayish orange (key shadow): hsl(28, 16%, 65%)
+- Light grayish orange (key background): #eae3dc
+- Grayish orange (key shadow): #b4a597
 
 #### Text
 
-- Very dark grayish blue: hsl(221, 14%, 31%)
-- White: hsl(0, 0%, 100%)
+- Very dark grayish blue: #444b5a
+- White: #ffffff
 
 ### Theme 2
 
 #### Backgrounds
 
-- Light gray (main background): hsl(0, 0%, 90%)
-- Grayish red (toggle background, keypad background): hsl(0, 5%, 81%)
-- Very light gray (screen background): hsl(0, 0%, 93%)
+- Light gray (main background): #e6e6e6
+- Grayish red (toggle background, keypad background): #d1cccc
+- Very light gray (screen background): #ededed
 
 #### Keys
 
-- Dark moderate cyan (key background): hsl(185, 42%, 37%)
-- Very dark cyan (key shadow): hsl(185, 58%, 25%)
+- Dark moderate cyan (key background): #377f86
+- Very dark cyan (key shadow): #1b5f65
 
-- Orange (key background, toggle): hsl(25, 98%, 40%)
-- Dark orange (key shadow): hsl(25, 99%, 27%)
+- Orange (key background, toggle): #ca5502
+- Dark orange (key shadow): #893901
 
-- Light grayish yellow (key background): hsl(45, 7%, 89%)
-- Dark grayish orange (key shadow): hsl(35, 11%, 61%)
+- Light grayish yellow (key background): #e5e4e1
+- Dark grayish orange (key shadow): #a69d91
 
 #### Text
 
-- Very dark grayish yellow: hsl(60, 10%, 19%)
-- White (text): hsl(0, 0%, 100%)
+- Very dark grayish yellow: #35352c
+- White (text): #ffffff
 
 ### Theme 3
 
