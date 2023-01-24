@@ -6,10 +6,7 @@ const Button = (props) => {
 
   return (
     <button
-      // ${
-      // !props.span ? "w-14" : "w-[7.2rem]"
-      //   } h-14
-      className={`p-2 h-full w-full text-2xl font-bold ${btnBg} ${btnShadow} rounded-[0.3rem] text-center flex items-center ${props.span} justify-center `}
+      className={`p-2 h-full w-full text-2xl font-bold ${btnBg} ${btnShadow} rounded-[0.3rem] text-center flex items-center ${props.span} justify-center hover:bg-[#f0efee] active:drop-shadow-none active:translate-y-[.3rem]`}
       onClick={props.handleClick}
     >
       {props.value}
